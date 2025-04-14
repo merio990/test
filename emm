@@ -1,1 +1,1 @@
-L'ultimo messaggio non è esadecimale.
+Errore: HTTPSConnectionPool(host='www.sat-universe.com', port=443): Max retries exceeded with url: /index.php?threads/tivusat-on-oscam.318392/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xb4b61498>: Failed to resolve 'www.sat-universe.com' ([Errno -2] Name or service not known)"))
