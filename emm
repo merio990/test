@@ -1,1 +1,1 @@
-L'ultimo messaggio non è esadecimale.
+Errore: HTTPSConnectionPool(host='www.sat-universe.com', port=443): Max retries exceeded with url: /index.php?threads/tivusat-on-oscam.318392/page-6 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
